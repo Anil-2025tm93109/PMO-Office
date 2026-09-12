@@ -8,3 +8,10 @@ Tasks:
 2. Inventory verification
 3. Stock availability review
 4. Monthly inventory reporting
+Additional Project Update
+New Activities:
+5. Supplier Stock Verification
+6. Inventory Reconciliation
+7. Pending items identification
+Update Status:
+Inventory Planning activities are in progress
