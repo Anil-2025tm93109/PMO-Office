@@ -1,0 +1,10 @@
+PMO Project Plan
+
+Project: Inventory Management
+Location: Bangalore
+
+Tasks:
+1. Inventory data collection
+2. Inventory verification
+3. Stock availability review
+4. Monthly inventory reporting

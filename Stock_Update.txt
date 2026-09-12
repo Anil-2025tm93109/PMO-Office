@@ -1,0 +1,19 @@
+
+Stock Update
+
+
+
+Laptop: 10 units
+
+Monitor: 15 units
+
+Keyboard: 20 units
+
+Office Chair: 25 units
+
+Printer: 3 units
+
+
+
+Status: Inventory updated successfully.
+
